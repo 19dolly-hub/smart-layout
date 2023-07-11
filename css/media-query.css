@@ -1,0 +1,9 @@
+@media (max-width: 730px){
+    .container{
+        flex-wrap: wrap;
+    }
+    .left-main, .right-main{
+        width: 100%;
+        height: 75%;
+    }
+}
